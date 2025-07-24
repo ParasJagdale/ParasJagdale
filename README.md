@@ -1,116 +1,159 @@
-# Hi there! 👋 I'm Paras Jagdale
+# 🌟 Welcome to My Digital Universe! 🌟
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Passionate+Web+Developer;Full+Stack+Enthusiast;Always+Learning+New+Tech;Building+Amazing+Projects" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=PARAS%20JAGDALE&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=parasbot&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/parasbot?label=Followers&style=social" alt="GitHub Followers" />
-</div>
-
-## 🚀 About Me
-
-I'm a passionate **Web Developer** from India who loves creating innovative solutions and exploring new technologies. Currently diving deep into modern web development frameworks and building exciting projects!
-
-- 🔭 **Currently working on:** My portfolio website [ParasJagdale](https://portfolio-frontend-pink-alpha.vercel.app/)
-- 🌱 **Currently learning:** Django, JavaScript, Java, MERN Stack
-- 💡 **Passionate about:** Building scalable web applications and solving complex problems
-- 👨‍💻 **All my projects:** Available at [Projects](https://portfolio-frontend-pink-alpha.vercel.app/)
-- 💬 **Ask me about:** Python, Java, Web Development
-- 📫 **Reach me at:** parasjagdale15@gmail.com
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=parasbot&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-</div>
-
-## 🛠️ Tech Stack
-
-### Languages
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css" alt="Languages" />
-</div>
-
-### Frameworks & Libraries
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=django,bootstrap,react,nodejs,express" alt="Frameworks" />
-</div>
-
-### Tools & Technologies
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mongodb,mysql" alt="Tools" />
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=parasbot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parasbot&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=150&lines=%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%8E%AF+Problem+Solver+%26+Innovator;%F0%9F%92%A1+Turning+Ideas+Into+Reality;%E2%9A%A1+Always+Coding+Something+Epic!" alt="Animated Typing" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parasbot&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://komarev.com/ghpvc/?username=parasbot&label=👁️%20Profile%20Views&color=blueviolet&style=for-the-badge&labelColor=black" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/parasbot?label=🚀%20Followers&style=for-the-badge&color=blue&labelColor=black" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-brightgreen?style=for-the-badge&labelColor=black" alt="Focus" />
 </div>
 
-## 🎯 Current Focus
+<br>
+
+<div align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=parasbot&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=67C6E3" />
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=parasbot&theme=synthwave&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=67C6E3" />
+</div>
+
+## 🎭 About This Digital Nomad
+
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 ```python
-class ParasJagdale:
+class DigitalArtisan:
     def __init__(self):
         self.name = "Paras Jagdale"
-        self.role = "Web Developer"
-        self.location = "India"
-        self.languages = ["Python", "Java", "JavaScript", "C++"]
-        self.current_focus = ["Django", "MERN Stack", "Full Stack Development"]
-        self.hobbies = ["Coding", "Learning New Technologies", "Building Projects"]
+        self.title = "Full Stack Sorcerer 🧙‍♂️"
+        self.location = "India 🇮🇳"
+        self.passion = "Crafting Digital Experiences"
+        self.mission = "Code → Coffee → Repeat"
+        
+    def current_adventures(self):
+        return {
+            "🎯 Building": "Next-gen portfolio website",
+            "📚 Learning": ["Django Magic", "MERN Mastery", "JavaScript Wizardry"],
+            "🔥 Exploring": "AI/ML integration in web apps",
+            "💡 Creating": "Open source contributions"
+        }
     
-    def say_hi(self):
-        print("Thanks for dropping by! Let's connect and build something amazing together!")
+    def life_motto(self):
+        return "Turning caffeine into code since 2020 ☕→💻"
 
-me = ParasJagdale()
-me.say_hi()
+developer = DigitalArtisan()
+print(developer.life_motto())
 ```
 
-
-
-## 🤝 Connect with Me
+## 🛠️ My Arsenal of Technologies
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/paras-jagdale/"
-   target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+
+### 🚀 Core Languages
+<img src="https://skillicons.dev/icons?i=python,java,javascript,cpp,html,css&theme=dark" />
+
+### ⚡ Frameworks & Libraries  
+<img src="https://skillicons.dev/icons?i=django,react,nodejs,express,bootstrap,tailwind&theme=dark" />
+
+### 🔧 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mongodb,mysql,docker,aws&theme=dark" />
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
+</div>
+
+## 📊 GitHub Analytics Dashboard
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parasbot/parasbot/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parasbot/parasbot/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/parasbot/parasbot/output/github-contribution-grid-snake.svg">
+</picture>
+
+<div align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parasbot&layout=donut-vertical&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=67C6E3" />
+  <img height="200" src="https://github-readme-activity-graph.vercel.app/graph?username=parasbot&theme=synthwave&bg_color=0D1117&color=67C6E3&line=F85D7F&point=F8D866&area=true&hide_border=true" />
+</div>
+
+## 🏆 Achievement Showcase
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=parasbot&theme=synthwave&no-frame=true&no-bg=true&margin-w=4&column=8" />
+</div>
+
+## 🎯 Current Mission Control
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" />
+        <br><b>🔥 Building</b>
+        <br>Portfolio v2.0
+      </td>
+      <td align="center" width="33%">
+        <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100" />
+        <br><b>📚 Learning</b>
+        <br>Advanced React Patterns
+      </td>
+      <td align="center" width="33%">
+        <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100" />
+        <br><b>🚀 Exploring</b>
+        <br>Web3 Technologies
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 🌐 Let's Connect & Collaborate!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/paras-jagdale/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/paras__029_/" 
-  target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://www.instagram.com/paras__029_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=black" alt="Instagram" />
   </a>
   <a href="mailto:parasjagdale15@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black" alt="Email" />
   </a>
-  <a href="[https://jagdaleparas.interns-es2.in](https://portfolio-frontend-pink-alpha.vercel.app/)" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+  <a href="https://portfolio-frontend-pink-alpha.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=black" alt="Portfolio" />
   </a>
 </div>
 
-## 📈 Contribution Graph
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parasbot&theme=tokyo-night" alt="Contribution Graph" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500" />
 </div>
 
-## 💭 Random Dev Quote
+## 💭 Daily Dose of Developer Wisdom
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave&border=true" alt="Random Dev Quote" />
+</div>
+
+## 🎵 Coding Playlist Vibes
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31k6pvdyl5gobzqr4n67648btc5y&cover_image=true&theme=novatone&show_offline=false&background_color=0d1117&interchange=true&bar_color=53b14f&bar_color_cover=false" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 </div>
 
 <div align="center">
-  <b>⭐ From <a href="https://github.com/parasbot">parasjagdale</a> with ❤️</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%9A%80;Let's+build+something+amazing+together!+%F0%9F%8C%9F;Happy+Coding!+%F0%9F%92%BB%E2%9C%A8" alt="Footer" />
+</div>
+
+<div align="center">
+  <b>⭐ Crafted with ❤️ by <a href="https://github.com/parasbot">Paras Jagdale</a> ⭐</b>
 </div>
