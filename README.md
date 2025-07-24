@@ -9,16 +9,16 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=parasbot&label=👁️%20Profile%20Views&color=blueviolet&style=for-the-badge&labelColor=black" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/parasbot?label=🚀%20Followers&style=for-the-badge&color=blue&labelColor=black" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=parasjagdale&label=👁️%20Profile%20Views&color=blueviolet&style=for-the-badge&labelColor=black" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/parasjagdale?label=🚀%20Followers&style=for-the-badge&color=blue&labelColor=black" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/Focus-Web%20Development-brightgreen?style=for-the-badge&labelColor=black" alt="Focus" />
 </div>
 
 <br>
 
 <div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=parasbot&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=67C6E3" />
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=parasbot&theme=synthwave&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=67C6E3" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=parasjagdale&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=67C6E3" />
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=parasjagdale&theme=synthwave&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=67C6E3" />
 </div>
 
 ## 🎭 About This Digital Nomad
@@ -71,20 +71,20 @@ print(developer.life_motto())
 ## 📊 GitHub Analytics Dashboard
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parasbot/parasbot/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parasbot/parasbot/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/parasbot/parasbot/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parasjagdale/parasjagdale/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parasjagdale/parasjagdale/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/parasjagdale/parasjagdale/output/github-contribution-grid-snake.svg">
 </picture>
 
 <div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parasbot&layout=donut-vertical&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=67C6E3" />
-  <img height="200" src="https://github-readme-activity-graph.vercel.app/graph?username=parasbot&theme=synthwave&bg_color=0D1117&color=67C6E3&line=F85D7F&point=F8D866&area=true&hide_border=true" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parasjagdale&layout=donut-vertical&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=67C6E3" />
+  <img height="200" src="https://github-readme-activity-graph.vercel.app/graph?username=parasjagdale&theme=synthwave&bg_color=0D1117&color=67C6E3&line=F85D7F&point=F8D866&area=true&hide_border=true" />
 </div>
 
 ## 🏆 Achievement Showcase
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=parasbot&theme=synthwave&no-frame=true&no-bg=true&margin-w=4&column=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=parasjagdale&theme=synthwave&no-frame=true&no-bg=true&margin-w=4&column=8" />
 </div>
 
 ## 🎯 Current Mission Control
@@ -155,5 +155,5 @@ print(developer.life_motto())
 </div>
 
 <div align="center">
-  <b>⭐ Crafted with ❤️ by <a href="https://github.com/parasbot">Paras Jagdale</a> ⭐</b>
+  <b>⭐ Crafted with ❤️ by <a href="https://github.com/parasjagdale">Paras Jagdale</a> ⭐</b>
 </div>
