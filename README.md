@@ -10,7 +10,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=parasjagdale&label=👁️%20Profile%20Views&color=blueviolet&style=for-the-badge&labelColor=black" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/parasjagdale?label=🚀%20Followers&style=for-the-badge&color=blue&labelColor=black" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/followers/parasjagdale?label=🚀%20Followers&style=for-the-badge&color=blue&labelColor=black&logo=github" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/Focus-Web%20Development-brightgreen?style=for-the-badge&labelColor=black" alt="Focus" />
 </div>
 
@@ -25,28 +25,45 @@
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-```python
-class DigitalArtisan:
-    def __init__(self):
-        self.name = "Paras Jagdale"
-        self.title = "Full Stack Sorcerer 🧙‍♂️"
-        self.location = "India 🇮🇳"
-        self.passion = "Crafting Digital Experiences"
-        self.mission = "Code → Coffee → Repeat"
-        
-    def current_adventures(self):
-        return {
-            "🎯 Building": "Next-gen portfolio website",
-            "📚 Learning": ["Django Magic", "MERN Mastery", "JavaScript Wizardry"],
-            "🔥 Exploring": "AI/ML integration in web apps",
-            "💡 Creating": "Open source contributions"
-        }
+```java
+public class DigitalArtisan {
+    private String name;
+    private String title;
+    private String location;
+    private String passion;
+    private String mission;
+    private String[] languages;
+    private String[] currentFocus;
+    private String[] hobbies;
     
-    def life_motto(self):
-        return "Turning caffeine into code since 2020 ☕→💻"
-
-developer = DigitalArtisan()
-print(developer.life_motto())
+    public DigitalArtisan() {
+        this.name = "Paras Jagdale";
+        this.title = "Full Stack Sorcerer 🧙‍♂️";
+        this.location = "India 🇮🇳";
+        this.passion = "Crafting Digital Experiences";
+        this.mission = "Code → Coffee → Repeat";
+        this.languages = {"Java", "Python", "JavaScript", "C++"};
+        this.currentFocus = {"Spring Boot Magic", "MERN Mastery", "Java Enterprise"};
+        this.hobbies = {"Coding", "Learning New Technologies", "Building Projects"};
+    }
+    
+    public void getCurrentAdventures() {
+        System.out.println("🎯 Building: Next-gen portfolio website");
+        System.out.println("📚 Learning: Spring Boot, Microservices, Advanced Java");
+        System.out.println("🔥 Exploring: AI/ML integration in web apps");
+        System.out.println("💡 Creating: Open source contributions");
+    }
+    
+    public String getLifeMotto() {
+        return "Turning caffeine into code since 2020 ☕→💻";
+    }
+    
+    public static void main(String[] args) {
+        DigitalArtisan developer = new DigitalArtisan();
+        System.out.println(developer.getLifeMotto());
+        developer.getCurrentAdventures();
+    }
+}
 ```
 
 ## 🛠️ My Arsenal of Technologies
