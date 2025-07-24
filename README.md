@@ -10,7 +10,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=parasjagdale&label=👁️%20Profile%20Views&color=blueviolet&style=for-the-badge&labelColor=black" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/parasjagdale?label=🚀%20Followers&style=for-the-badge&color=blue&labelColor=black&logo=github" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/Focus-Web%20Development-brightgreen?style=for-the-badge&labelColor=black" alt="Focus" />
 </div>
 
