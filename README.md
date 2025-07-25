@@ -87,7 +87,16 @@ public class DigitalArtisan {
 ## 📊 GitHub Analytics Dashboard
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parasjagdale&theme=synthwave&bg_color=0D1117&color=67C6E3&line=F85D7F&point=F8D866&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parasjagdale/parasjagdale/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parasjagdale/parasjagdale/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/parasjagdale/parasjagdale/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<div align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parasjagdale&layout=donut-vertical&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=67C6E3" />
+  <img height="200" src="https://github-readme-activity-graph.vercel.app/graph?username=parasjagdale&theme=synthwave&bg_color=0D1117&color=67C6E3&line=F85D7F&point=F8D866&area=true&hide_border=true" />
 </div>
 <div align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parasjagdale&layout=donut-vertical&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=67C6E3" />
