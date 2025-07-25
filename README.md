@@ -163,12 +163,9 @@ public class DigitalArtisan {
 ## 🎵 Coding Playlist Vibes
 
 <div align="center">
-  <h3>🎵 Current Coding Soundtrack</h3>
-  <p>
-    🎧 <strong>Genres:</strong> Lofi Hip Hop • Synthwave • Electronic • Ambient<br>
-    🎹 <strong>Mood:</strong> Deep Focus & Creative Flow<br>
-    🎶 <strong>Vibe:</strong> <em>"Turning beats into bytes, rhythms into algorithms"</em>
-  </p>
+  <img src="https://img.shields.io/badge/🎵%20Currently%20Playing-Lofi%20Hip%20Hop-1DB954?style=for-the-badge&labelColor=black" alt="Currently Playing" />
+  <img src="https://img.shields.io/badge/🎧%20Favorite%20Genre-Electronic-FF6B6B?style=for-the-badge&labelColor=black" alt="Favorite Genre" />
+  <img src="https://img.shields.io/badge/🎶%20Coding%20Mood-Synthwave-4ECDC4?style=for-the-badge&labelColor=black" alt="Coding Mood" />
 </div>
 
 ---
