@@ -163,7 +163,12 @@ public class DigitalArtisan {
 ## 🎵 Coding Playlist Vibes
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31k6pvdyl5gobzqr4n67648btc5y&cover_image=true&theme=novatone&show_offline=false&background_color=0d1117&interchange=true&bar_color=53b14f&bar_color_cover=false" />
+  <h3>🎵 Current Coding Soundtrack</h3>
+  <p>
+    🎧 <strong>Genres:</strong> Lofi Hip Hop • Synthwave • Electronic • Ambient<br>
+    🎹 <strong>Mood:</strong> Deep Focus & Creative Flow<br>
+    🎶 <strong>Vibe:</strong> <em>"Turning beats into bytes, rhythms into algorithms"</em>
+  </p>
 </div>
 
 ---
