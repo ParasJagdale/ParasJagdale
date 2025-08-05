@@ -77,9 +77,8 @@ const developer: DigitalSorcerer = {
 
 console.log("✨ Ready to code magic! ✨");
 ```
-
-      </td>
-    </tr>
+</tr>
+</td>
   </table>
 </div>
 
