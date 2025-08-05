@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=200&lines=%F0%9F%8C%9F+Welcome+to+the+Matrix+of+Code;%F0%9F%94%A5+Crafting+Digital+Masterpieces;%E2%9A%A1+Turning+Coffee+into+Code;%F0%9F%9A%80+Building+the+Future%2C+One+Line+at+a+Time;%F0%9F%8E%AD+Where+Logic+Meets+Creativity" alt="Animated Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=200&lines=%F0%9F%8C%9F+Welcome+to+the+GitHub+of+Paras;%F0%9F%94%A5+Crafting+Digital+Masterpieces;%E2%9A%A1+Turning+Coffee+into+Code;%F0%9F%9A%80+Building+the+Future%2C+One+Line+at+a+Time;%F0%9F%8E%AD+Where+Logic+Meets+Creativity" alt="Animated Header" />
 </div>
 
 <div align="center">
@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=parasjagdale&label=👁️%20VISITORS&color=0e75b6&style=for-the-badge&labelColor=000000" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/VISITORS-1245-blue?style=for-the-badge&labelColor=000000" alt="Profile Views" />
   <img src="https://img.shields.io/badge/STATUS-🔥%20CODING-ff6b6b?style=for-the-badge&labelColor=000000" alt="Status" />
   <img src="https://img.shields.io/badge/FOCUS-🎯%20FULL%20STACK-4ecdc4?style=for-the-badge&labelColor=000000" alt="Focus" />
   <img src="https://img.shields.io/badge/MOOD-⚡%20INNOVATIVE-45b7d1?style=for-the-badge&labelColor=000000" alt="Mood" />
@@ -77,9 +77,10 @@ const developer: DigitalSorcerer = {
 
 console.log("✨ Ready to code magic! ✨");
 ```
-</tr>
+
 </td>
-  </table>
+</tr>
+</table>
 </div>
 
 <!-- Mobile-friendly fallback -->
@@ -99,7 +100,7 @@ console.log("✨ Ready to code magic! ✨");
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" alt="Animated icon 1" loading="lazy" />
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" alt="Animated icon 2" loading="lazy" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7ca7d0.gif" width="100" alt="Animated icon 3" loading="lazy" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" alt="Animated code icon" loading="lazy" />
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" alt="Animated icon 4" loading="lazy" />
   <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" alt="Animated icon 5" loading="lazy" />
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" alt="Animated icon 6" loading="lazy" />
@@ -185,19 +186,19 @@ console.log("✨ Ready to code magic! ✨");
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60" alt="Project icon" loading="lazy" />
+        <img src=https://img.icons8.com/?size=100&id=239&format=png&color=FFFFFF width="60" alt="Project icon" loading="lazy" />
         <br><b>🏙️ Metro Pune App</b>
         <br><sub>Java-based Metro Navigation System</sub>
-        <br><a href="https://github.com/parasjagdale/Metro-Pune-App">View Project</a>
+        <br><a href="https://github.com/ParasJagdale/Metro-Pune-App">View Project</a>
       </td>
       <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="60" alt="Project icon" loading="lazy" />
+        <img src="https://img.icons8.com/?size=100&id=17622&format=png&color=000000" width="60" alt="Project icon" loading="lazy" />
         <br><b>🌍 WanderLust</b>
         <br><sub>Full-Stack Travel Platform</sub>
-        <br><a href="https://github.com/parasjagdale/Wanderlust">View Project</a>
+        <br><a href="https://github.com/ParasJagdale/wanderlust-travel-marketplace">View Project</a>
       </td>
       <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="60" alt="Project icon" loading="lazy" />
+        <img src="https://img.icons8.com/?size=100&id=23883&format=png&color=000000" width="60" alt="Project icon" loading="lazy" />
         <br><b>💼 Portfolio Website</b>
         <br><sub>React + Tailwind CSS</sub>
         <br><a href="https://portfolio-frontend-pink-alpha.vercel.app/">View Live</a>
@@ -205,22 +206,22 @@ console.log("✨ Ready to code magic! ✨");
     </tr>
     <tr>
       <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="60" alt="Project icon" loading="lazy" />
-        <br><b>📊 Stoxly</b>
+        <img src="https://img.icons8.com/?size=100&id=104073&format=png&color=000000" width="60" alt="Project icon" loading="lazy" />
+        <br><b>📊 Zerodha Clone</b>
         <br><sub>Stock Market Dashboard</sub>
-        <br><a href="https://github.com/parasjagdale/Stoxly">View Project</a>
+        <br><a href="https://github.com/ParasJagdale/Zerodha-Clone">View Project</a>
       </td>
       <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60" alt="Project icon" loading="lazy" />
-        <br><b>🎓 Smart Notes Organizer</b>
-        <br><sub>JavaScript Study Tool</sub>
-        <br><a href="https://github.com/parasjagdale/smart-notes-organizer">View Project</a>
+        <img src="https://img.icons8.com/?size=100&id=pMuuS3nTyGxX&format=png&color=000000" width="60" alt="Project icon" loading="lazy" />
+        <br><b>Weather App</b>
+        <br><sub>Weather of Desired City</sub>
+        <br><a href="https://github.com/ParasJagdale/Weather-App-React">View Project</a>
       </td>
       <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="60" alt="Project icon" loading="lazy" />
+        <img src="https://img.icons8.com/?size=100&id=22996&format=png&color=000000f" width="60" alt="Project icon" loading="lazy" />
         <br><b>🎥 Vid Connect</b>
         <br><sub>Video Conferencing App</sub>
-        <br><a href="https://github.com/parasjagdale/Vid-Connect">View Project</a>
+        <br><a href="https://github.com/ParasJagdale/Vid_Connect">View Project</a>
       </td>
     </tr>
   </table>
@@ -233,22 +234,22 @@ console.log("✨ Ready to code magic! ✨");
   <table style="width: 100%; max-width: 800px;">
     <tr>
       <td align="center" width="25%" style="padding: 10px;">
-        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80" alt="Building icon" loading="lazy" />
+        <img src="https://img.icons8.com/?size=100&id=XDoDBLNz5eBF&format=png&color=000000" width="80" alt="Building icon" loading="lazy" />
         <br><b>🔥 BUILDING</b>
         <br><sub>AI-Powered Code Assistant</sub>
       </td>
       <td align="center" width="25%" style="padding: 10px;">
-        <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="80" alt="Learning icon" loading="lazy" />
+        <img src="https://img.icons8.com/?size=100&id=ZYujt38OjL95&format=png&color=000000" width="80" alt="Learning icon" loading="lazy" />
         <br><b>📚 LEARNING</b>
         <br><sub>DevOps & Kubernetes</sub>
       </td>
       <td align="center" width="25%" style="padding: 10px;">
-        <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="80" alt="Exploring icon" loading="lazy" />
+        <img src="https://img.icons8.com/?size=100&id=XiOTegRsskoN&format=png&color=000000" width="80" alt="Exploring icon" loading="lazy" />
         <br><b>🚀 EXPLORING</b>
         <br><sub>Machine Learning Integration</sub>
       </td>
       <td align="center" width="25%" style="padding: 10px;">
-        <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="80" alt="Mastering icon" loading="lazy" />
+        <img src="https://img.icons8.com/?size=100&id=12364&format=png&color=000000" width="80" alt="Mastering icon" loading="lazy" />
         <br><b>🎯 MASTERING</b>
         <br><sub>Cloud-Native Architecture</sub>
       </td>
@@ -260,7 +261,7 @@ console.log("✨ Ready to code magic! ✨");
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" alt="Animated divider" loading="lazy" style="max-width: 100%; height: auto;" />
 </div>
 
-## 🌐 Connect with the Matrix
+## 🌐 Connect with the Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/paras-jagdale/" target="_blank">
@@ -277,9 +278,7 @@ console.log("✨ Ready to code magic! ✨");
   </a>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="200" alt="Animated connection icon" loading="lazy" />
-</div>
+
 
 ## 💭 Code Philosophy
 
@@ -290,14 +289,35 @@ console.log("✨ Ready to code magic! ✨");
 ## 🎵 Coding Atmosphere
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🎵%20NOW%20PLAYING-Synthwave%20Mix-1DB954?style=for-the-badge&labelColor=000000&color=1DB954" alt="Now Playing" />
-  <img src="https://img.shields.io/badge/🎧%20VIBE-Cyberpunk%202077%20OST-FF6B6B?style=for-the-badge&labelColor=000000&color=FF6B6B" alt="Vibe" />
-  <img src="https://img.shields.io/badge/🎶%20MOOD-Matrix%20Soundtrack-4ECDC4?style=for-the-badge&labelColor=000000&color=4ECDC4" alt="Mood" />
+  <img src="https://img.shields.io/badge/💻%20NOW%20PLAYING-Debugging%20the%20Matrix-1DB954?style=for-the-badge&labelColor=000000&color=1DB954" alt="Now Playing" />
+  <img src="https://img.shields.io/badge/⚙️%20VIBE-Full%20Stack%20Flow-FF6B6B?style=for-the-badge&labelColor=000000&color=FF6B6B" alt="Vibe" />
+  <img src="https://img.shields.io/badge/🧠%20MOOD-Build%20>_%20Test%20>_%20Repeat-4ECDC4?style=for-the-badge&labelColor=000000&color=4ECDC4" alt="Mood" />
 </div>
+<br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="400" alt="Coding atmosphere animation" loading="lazy" style="max-width: 100%; height: auto;" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmwwMjN6cHBpMGZudWk4czBtMTA0YzI3bnBmcDhkOGR3c2lpbDhnaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YQMiQtopRjjZRSYRJF/giphy.gif" width="400" alt="Coding atmosphere animation" loading="lazy" style="width: 250; height: auto;" />
 </div>
+
+##  🏏 Hobbies 🏋️‍♂️
+
+<div align="center">
+  <table style="width: 100%; max-width: 800px;">
+    <tr>
+      <td align="center" width="25%" style="padding: 10px;">
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDkydHd5MzlwNXlzY3g2Z3hzcDU1bnI0YXJoOTB0bm43OHhuNno2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f8zuopF90SexAT9KuP/giphy.gif" width="80" alt="Building icon" loading="lazy" />
+      </td>
+      <td align="center" width="25%" style="padding: 10px;">
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDlyaDU0dTFiNDdscTJlNGNvZmsycGM3dzJ6YmJ4c21heGZpcG1ldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kIOmjt6qe5iZq6Njee/giphy.gif" width="80" alt="Learning icon" loading="lazy" />
+      </td>
+      <td align="center" width="25%" style="padding: 10px;">
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnI5MzJobGV6ZHh0OWVlOHo4MDFtYWlobDN0MzFxd3JmazZuaG83NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fwW6QxZwJhLBXWhYYn/giphy.gif" width="80" alt="Exploring icon" loading="lazy" />
+      </td>
+      <td align="center" width="25%" style="padding: 10px;">
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajM5eGN5Nm5rbDMwZ3p4b3E5a29ta216cXpjbWx1MmFocmRkeGI0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UoRR2d1b8xs04A2bV8/giphy.gif" width="80" alt="Mastering icon" loading="lazy" />
+      </td>
+    </tr>
+  </table>
 
 ## 🌟 Fun Stats & Metrics
 
@@ -330,5 +350,5 @@ console.log("✨ Ready to code magic! ✨");
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100" alt="Final animation" loading="lazy" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXVxd2p3Z3hidDJ5cDBnc2txaXFpMGFobWhxeXB0djJydHhqZjYzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/k1R0Abd0ht59AchiYM/giphy.gif" width="250" alt="Final animation" loading="lazy" />
 </div>
