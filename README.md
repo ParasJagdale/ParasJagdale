@@ -282,7 +282,7 @@ console.log("✨ Ready to code magic! ✨");
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quotes=Code%20is%20poetry%20written%20in%20logic&author=Paras%20Jagdale" alt="Quote" />
 </div>
-<br>
+##
 
 ## 🎵 Coding Atmosphere
 
