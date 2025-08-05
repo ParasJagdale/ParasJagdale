@@ -83,9 +83,6 @@ console.log("✨ Ready to code magic! ✨");
 </table>
 </div>
 
-<!-- Mobile-friendly fallback -->
-<div align="center" style="display: none;">
-  <img align="center" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Developer coding animation" loading="lazy" style="max-width: 100%; height: auto;" />
   
   ```typescript
   const developer = {
