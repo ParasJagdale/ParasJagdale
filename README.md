@@ -279,13 +279,12 @@ console.log("✨ Ready to code magic! ✨");
 
 ## 💭 Code Philosophy
 
-<div align="center">
+<div align="center" style="padding-bottom:1rem">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quotes=Code%20is%20poetry%20written%20in%20logic&author=Paras%20Jagdale" alt="Quote" />
 </div>
-##
+
 
 ## 🎵 Coding Atmosphere
-
 <div align="center">
   <img src="https://img.shields.io/badge/💻%20NOW%20PLAYING-Debugging%20the%20Matrix-1DB954?style=for-the-badge&labelColor=000000&color=1DB954" alt="Now Playing" />
   <img src="https://img.shields.io/badge/⚙️%20VIBE-Full%20Stack%20Flow-FF6B6B?style=for-the-badge&labelColor=000000&color=FF6B6B" alt="Vibe" />
