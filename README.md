@@ -293,7 +293,7 @@ console.log("✨ Ready to code magic! ✨");
 <br>
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmwwMjN6cHBpMGZudWk4czBtMTA0YzI3bnBmcDhkOGR3c2lpbDhnaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YQMiQtopRjjZRSYRJF/giphy.gif" width="400" alt="Coding atmosphere animation" loading="lazy" style="width: 200; height: auto;" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2pwdW45NjcwNWt5Y3VxdDIxMjNjdDRrejliOHhnYTFnZjM4bWZnMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5tiNlHkA1WdUh3jRDW/giphy.gif" width="400" alt="Coding atmosphere animation" loading="lazy" style="width: 200; height: auto;" />
 </div>
 
 ##  🏏 Hobbies 🏋️‍♂️
