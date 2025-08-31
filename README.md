@@ -233,22 +233,22 @@ console.log("✨ Ready to code magic! ✨");
       <td align="center" width="25%" style="padding: 10px;">
         <img src="https://img.icons8.com/?size=100&id=XDoDBLNz5eBF&format=png&color=000000" width="80" alt="Building icon" loading="lazy" />
         <br><b>🔥 BUILDING</b>
-        <br><sub>AI-Powered Code Assistant</sub>
+        <br><sub>Projects using AI</sub>
       </td>
       <td align="center" width="25%" style="padding: 10px;">
         <img src="https://img.icons8.com/?size=100&id=ZYujt38OjL95&format=png&color=000000" width="80" alt="Learning icon" loading="lazy" />
         <br><b>📚 LEARNING</b>
-        <br><sub>DevOps & Kubernetes</sub>
+        <br><sub>MERN & Java</sub>
       </td>
       <td align="center" width="25%" style="padding: 10px;">
         <img src="https://img.icons8.com/?size=100&id=XiOTegRsskoN&format=png&color=000000" width="80" alt="Exploring icon" loading="lazy" />
         <br><b>🚀 EXPLORING</b>
-        <br><sub>Machine Learning Integration</sub>
+        <br><sub>AI & Machine Learning</sub>
       </td>
       <td align="center" width="25%" style="padding: 10px;">
         <img src="https://img.icons8.com/?size=100&id=12364&format=png&color=000000" width="80" alt="Mastering icon" loading="lazy" />
         <br><b>🎯 MASTERING</b>
-        <br><sub>Cloud-Native Architecture</sub>
+        <br><sub>Java </sub>
       </td>
     </tr>
   </table>
