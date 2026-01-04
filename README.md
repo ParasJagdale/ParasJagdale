@@ -83,15 +83,6 @@ console.log("✨ Ready to code magic! ✨");
 </table>
 </div>
 
-  
-  ```typescript
-  const developer = {
-    name: "Paras Jagdale",
-    title: "🧙‍♂️ Full Stack Sorcerer",
-    location: "🇮🇳 India",
-    passion: "Crafting Digital Experiences"
-  };
-  ```
 </div>
 
 <div align="center">
