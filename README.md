@@ -61,18 +61,6 @@ const developer: DigitalSorcerer = {
   passion: "Crafting Digital Experiences",
   mission: "Code → Coffee → Conquer → Repeat",
   languages: ["Java", "Python", "JavaScript", "TypeScript"],
-  currentQuest: [
-    "🔮 Mastering Spring Boot Magic",
-    "⚛️ React Wizardry",
-    "🐍 Python Enchantments",
-    "☁️ Cloud Computing Spells"
-  ],
-  superpowers: [
-    "🚀 Rapid Prototyping",
-    "🎯 Problem Solving",
-    "💡 Creative Thinking",
-    "🔥 Continuous Learning"
-  ]
 };
 
 console.log("✨ Ready to code magic! ✨");
