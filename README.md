@@ -50,8 +50,6 @@ interface DigitalSorcerer {
   passion: string;
   mission: string;
   languages: string[];
-  currentQuest: string[];
-  superpowers: string[];
 }
 
 const developer: DigitalSorcerer = {
