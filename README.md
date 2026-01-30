@@ -148,11 +148,6 @@ console.log("✨ Ready to code magic! ✨");
   </picture>
 </div>
 
-## 🏆 Hall of Fame
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=parasjagdale&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Profile Trophies" />
-</div>
 
 ## 🌟 Featured Projects
 
