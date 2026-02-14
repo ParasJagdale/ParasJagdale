@@ -242,7 +242,7 @@ console.log("✨ Ready to code magic! ✨");
   <a href="mailto:parasjagdale15@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&color=D14836" alt="Email" />
   </a>
-  <a href="https://portfolio-frontend-pink-alpha.vercel.app/" target="_blank">
+  <a href="https://parasjagdale.tech" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000&color=FF5722" alt="Portfolio" />
   </a>
 </div>
