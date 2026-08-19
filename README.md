@@ -99,7 +99,7 @@ console.log("✨ Ready to code magic! ✨");
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,spring,bootstrap,tailwind&theme=dark&perline=7" alt="Frameworks & Libraries: React, Node.js, Express, Django, Spring, Bootstrap, Tailwind" style="max-width: 100%; height: auto;" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,spring,bootstrap,tailwind&theme=dark&perline=7" alt="Frameworks & Libraries: React, Node.js, Express, Django, Bootstrap, Tailwind" style="max-width: 100%; height: auto;" />
 </div>
 
 <div align="center">
