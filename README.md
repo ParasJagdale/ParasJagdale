@@ -315,7 +315,7 @@ console.log("✨ Ready to code magic! ✨");
 </div>
 
 <div align="center">
-  <b>🌟 Crafted with 💙 and ⚡ by <a href="https://github.com/parasjagdale">Paras Jagdale</a> 🌟</b>
+  <b>🌟 Crafted with 💙 by <a href="https://github.com/parasjagdale">Paras Jagdale</a> 🌟</b>
 </div>
 
 <div align="center">
